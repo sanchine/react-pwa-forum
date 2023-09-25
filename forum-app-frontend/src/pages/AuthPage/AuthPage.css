@@ -1,0 +1,35 @@
+.Auth {
+    margin: auto;
+    max-width: 80%;
+    max-height: 100%;
+    padding: 15% 0 0;
+}
+
+.auth_form {
+    display: flex;
+    flex-direction: column;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.auth_form_input {
+    margin: 8px 0;
+    height: 2ch;
+    font-size: 24px;
+    padding: 4px;
+}
+
+.auth_form_buttons_block {
+    width: 100%;
+    border-top: 1px black solid;
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth_form_button {
+    width: 48.5%;
+    height: 4ch;
+    border-radius: 8px;
+    box-shadow: none;
+}
