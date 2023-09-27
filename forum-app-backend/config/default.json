@@ -1,3 +1,4 @@
 {
-    "serverPort": 3001
+    "serverPort": 3001,
+    "secretKey": "most-secret-key-in-the-world"
 }
