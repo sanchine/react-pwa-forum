@@ -2,7 +2,8 @@
 nodejs : express + react + pwa + pg-docker
 <details>
 <summary>Задача для Александра</summary>
-Идея: 
+<br>
+    <h3>Идея:</h3> 
     <ul>
         <li>на страничке форума содержится вкладка "Расписание пар";</li>
     <li>эта вкладка является компонентом React (name: CouplesSchedule);</li>
@@ -10,5 +11,5 @@ nodejs : express + react + pwa + pg-docker
     <li>содержание спойлеров есть заглушки (текст с наименованием спойлера, т.е. 1 курс, 2 курс и т.д.);</li>
     </ul>
 
-Задача: реализовать компонент CouplesSchedule в соответствии с идеей
+<h3>Задача:</h3> реализовать компонент CouplesSchedule в соответствии с идеей
 </details> 
